@@ -1,6 +1,4 @@
-# Welcome to Cyber Nautilus Studios
-
-We're Cyber Nautilus Studios: a creative team developing fun games and experiences
+100 Fish Studios: a creative team developing fun games and experiences
 
 ## Current Project: BubbleFish
 
