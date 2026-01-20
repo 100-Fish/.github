@@ -73,5 +73,5 @@
 
 
 <p style="max-width:260px; color:#444;">
-  <strong style="color:#e77046;">Molith</strong> is a short, experimental 3D experience made as part of a game development community challenge.
+  <strong style="color:#e77046;">Molith</strong> is a short, experimental 3D experience made as part of a game development community challenge.  <a href="https://elanmakesgames.itch.io/molith" text-decoration:none;"> Launch Here </a>
 </p>
