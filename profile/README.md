@@ -1,13 +1,13 @@
 100 Fish Studios is a creative team based in Philadelphia, developing interactive software.
 
-<hr width="420" color="#e77046">
+<hr>
 
 <table>
 
   <tr>
     <td><strong>Systems programming</strong></td>
     <td>
-      <a href="https://elanrubin.com/" style="color:#e77046; text-decoration:none;">
+      <a href="https://elanrubin.com/" text-decoration:none;">
         Elan
       </a>
     </td>
@@ -17,7 +17,7 @@
   <tr>
     <td><strong>Game art & design</strong></td>
     <td>
-      <a href="https://alphons6.itch.io/" style="color:#e77046; text-decoration:none;">
+      <a href="https://alphons6.itch.io/" text-decoration:none;">
         Alphons63
       </a>
     </td>
@@ -27,7 +27,7 @@
   <tr>
     <td><strong>Concept art</strong></td>
     <td>
-      <a href="https://x.com/AnglerFishart13" style="color:#e77046; text-decoration:none;">
+      <a href="https://x.com/AnglerFishart13" text-decoration:none;">
         Anglerfishart
       </a>
     </td>
@@ -37,7 +37,7 @@
   <tr>
     <td><strong>Sound design</strong></td>
     <td>
-      <a href="https://www.mafgar.com/" style="color:#e77046; text-decoration:none;">
+      <a href="https://www.mafgar.com/" text-decoration:none;">
         Mafgar
       </a>
     </td>
@@ -46,7 +46,7 @@
 
 </table>
 
-<hr width="420" color="#e77046">
+<hr>
 
 ## In-Progress Projects
 
@@ -59,19 +59,19 @@
   style="display:block; margin-bottom:6px;"
 />
 
-<p style="max-width:260px; color:#444;">
+<p>
   <strong style="color:#e77046;">BubbleFish</strong> is a frantic, retro-styled action game. Release date TBA.
 </p>
 
-### Monolinth
+### Molith
 
-<img
-  src="https://github.com/user-attachments/assets/41f914d5-2887-4aca-88a6-d0f3f02e6bd6"
-  alt="Monolinth Preview"
+
+<img src="https://github.com/user-attachments/assets/809fe2a5-8ad3-4e5b-859c-74bc0832bfe1" 
+  alt="Molith Banner"
   width="260"
-  style="display:block; margin-bottom:6px;"
-/>
+  style="display:block; margin-bottom:6px;"/>
+
 
 <p style="max-width:260px; color:#444;">
-  <strong style="color:#e77046;">Monolinth</strong> is a short, experimental 3D experience made as part of a game development community challenge.
+  <strong style="color:#e77046;">Molith</strong> is a short, experimental 3D experience made as part of a game development community challenge.
 </p>
