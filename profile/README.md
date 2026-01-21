@@ -66,7 +66,7 @@
 ### Molith
 
 
-<img src="https://github.com/user-attachments/assets/809fe2a5-8ad3-4e5b-859c-74bc0832bfe1" 
+<img src="https://github.com/user-attachments/assets/421260c3-8aa2-4a16-b421-8e32c0920985" 
   alt="Molith Banner"
   width="260"
   style="display:block; margin-bottom:6px;"/>
