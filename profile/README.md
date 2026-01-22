@@ -48,8 +48,6 @@
 
 <hr>
 
-## In-Progress Projects
-
 ### BubbleFish
 
 <img
