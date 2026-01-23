@@ -51,7 +51,7 @@
 ### BubbleFish
 
 <img
-  src="https://github.com/user-attachments/assets/994dfc92-50bf-4c5b-8a81-fa3b0910c8cf"
+  src="https://raw.githubusercontent.com/100-Fish/branding-assets/main/project_thumbnails/bubblefish_thumbnail.png"
   alt="BubbleFish Banner"
   width="260"
   style="display:block; margin-bottom:6px;"
@@ -64,7 +64,7 @@
 ### Molith
 
 
-<img src="https://github.com/user-attachments/assets/421260c3-8aa2-4a16-b421-8e32c0920985" 
+<img src="https://raw.githubusercontent.com/100-Fish/branding-assets/main/project_thumbnails/molith_thumbnail.png" 
   alt="Molith Banner"
   width="260"
   style="display:block; margin-bottom:6px;"/>
