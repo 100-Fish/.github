@@ -1,4 +1,4 @@
-100 Fish Studios is a creative team based in Philadelphia, developing interactive software.
+BeetleBox Studios is a creative team based in Philadelphia, developing interactive software.
 
 <hr>
 
@@ -51,7 +51,7 @@
 ### BubbleFish
 
 <img
-  src="https://raw.githubusercontent.com/100-Fish/branding-assets/main/project_thumbnails/bubblefish_thumbnail.png"
+  src="https://raw.githubusercontent.com/beetlebox-studios/branding-assets/main/project_thumbnails/bubblefish_thumbnail.png"
   alt="BubbleFish Banner"
   width="260"
   style="display:block; margin-bottom:6px;"
@@ -64,7 +64,7 @@
 ### Molith
 
 
-<img src="https://raw.githubusercontent.com/100-Fish/branding-assets/main/project_thumbnails/molith_thumbnail.png" 
+<img src="https://raw.githubusercontent.com/beetlebox-studios/branding-assets/main/project_thumbnails/molith_thumbnail.png" 
   alt="Molith Banner"
   width="260"
   style="display:block; margin-bottom:6px;"/>
