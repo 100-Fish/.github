@@ -35,6 +35,26 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
   </tr>
 
   <tr>
+    <td><strong>Programming</strong></td>
+    <td>
+      <a href="https://github.com/Ryan-Brosius" text-decoration:none;">
+        Ryan
+      </a>
+    </td>
+    <td>Collaborator</td>
+  </tr>
+
+  <tr>
+    <td><strong>Development & design</strong></td>
+    <td>
+      <a href="https://mr-qwil.itch.io/" text-decoration:none;">
+        Michael
+      </a>
+    </td>
+    <td>Collaborator</td>
+  </tr>
+
+  <tr>
     <td><strong>Sound design</strong></td>
     <td>
       <a href="https://www.mafgar.com/" text-decoration:none;">
