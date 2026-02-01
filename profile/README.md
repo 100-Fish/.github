@@ -45,7 +45,7 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
   </tr>
 
   <tr>
-    <td><strong>Development & design</strong></td>
+    <td><strong>Development & production</strong></td>
     <td>
       <a href="https://mr-qwil.itch.io/" text-decoration:none;">
         Michael
@@ -81,6 +81,19 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
   <strong style="color:#e77046;">BubbleFish</strong> is a frantic, retro-styled action game. Release date TBA.
 </p>
 
+### Masknum Opus
+
+
+<img src="https://raw.githubusercontent.com/beetlebox-studios/branding-assets/main/project_thumbnails/masknum_thumbnail.png" 
+  alt="Molith Banner"
+  width="260"
+  style="display:block; margin-bottom:6px;"/>
+
+
+<p style="max-width:260px; color:#444;">
+  <strong style="color:#e77046;">Masknum Opus</strong> is a short 2D experience about infiltrating a secretive initiation ceremony.  <a href="https://elanmakesgames.itch.io/mask" text-decoration:none;"> Launch Here </a>
+</p>
+
 ### Molith
 
 
@@ -91,5 +104,5 @@ BeetleBox Studios is a creative team based in Philadelphia, developing interacti
 
 
 <p style="max-width:260px; color:#444;">
-  <strong style="color:#e77046;">Molith</strong> is a short, experimental 3D experience made as part of a game development community challenge.  <a href="https://elanmakesgames.itch.io/molith" text-decoration:none;"> Launch Here </a>
+  <strong style="color:#e77046;">Molith</strong> is a short, experimental 3D walking simulator about exploring megastructures.  <a href="https://elanmakesgames.itch.io/molith" text-decoration:none;"> Launch Here </a>
 </p>
